@@ -70,74 +70,70 @@ I enjoy solving real-world problems, continuously learning emerging technologies
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-## Voice-Based Virtual Assistant
+## 🎙️ Smart University Portal with Voice-Based Virtual Assistant
 
 **Undergraduate Thesis**
 
-An AI-powered virtual assistant developed using Natural Language Processing and Speech Recognition to provide academic support through natural conversations.
+An AI-powered university portal featuring a voice-enabled virtual assistant that provides academic guidance using Natural Language Processing and Speech Recognition.
 
-**Technologies:** Python • PyTorch • Flask • MySQL • NLP
+**Technologies:** Python • PyTorch • Flask • MySQL • NLP • Speech Recognition
 
-🔗 Repository
+🔗 **Repository:**  
+https://github.com/shaheer458/Smart-University-Portal-with-Integrated-Voice-Assistant
 
-🌐 Live Demo
-
----
-
-## Physical AI & Humanoid Robotics
-
-An educational platform focused on Artificial Intelligence, Robotics, AI Agents, and emerging technologies.
-
-**Technologies:** Next.js • React • TypeScript • Clerk • Docusaurus
-
-🔗 Repository
-
-🌐 Live Demo
+🌐 **Live Demo:**  
+https://smart-university-portal-with-integr.vercel.app/
 
 ---
 
-## Bandage E-Commerce Platform
+## 🤖 Physical AI & Humanoid Robotics
 
-A modern e-commerce application featuring authentication, shopping cart functionality, and secure checkout.
+An educational platform that delivers structured learning resources on Physical AI, Robotics, AI Agents, and emerging technologies.
 
-**Technologies:** Next.js • Tailwind CSS • Sanity CMS • Stripe
+**Technologies:** Next.js • React • TypeScript • Tailwind CSS • Clerk • Docusaurus
 
-🔗 Repository
+🔗 **Repository:**  
+https://github.com/shaheer458/Physical-AI-Humanoid-Robotics
 
-🌐 Live Demo
-
----
-
-## Car Rental Platform
-
-A full-stack vehicle rental platform with booking management and an administrative dashboard.
-
-**Technologies:** React • Node.js • Sanity CMS
-
-🔗 Repository
-
-🌐 Live Demo
+🌐 **Live Demo:**  
+https://hackathon-i-create-a-textbook-for-t-seven.vercel.app/
 
 ---
 
-# GitHub Statistics
+## 🛍️ Bandage E-Commerce Platform
 
+A modern full-stack e-commerce platform featuring authentication, product management, shopping cart functionality, and secure online payments.
+
+**Technologies:** Next.js • TypeScript • Tailwind CSS • Sanity CMS • Stripe
+
+🔗 **Repository:**  
+https://github.com/shaheer458/Banadage-
+
+🌐 **Live Demo:**  
+https://banadage.vercel.app/
+
+---
+
+## 🚗 Smart Rental Platform
+
+A responsive full-stack vehicle rental application that allows users to browse, book, and manage rental vehicles through an intuitive interface.
+
+**Technologies:** React • Node.js • Sanity CMS • Tailwind CSS
+
+🔗 **Repository:**  
+https://github.com/shaheer458/smart_rental-car
+
+🌐 **Live Demo:**  
+https://smart-rental-car.vercel.app/
+
+---
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaheer458&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer458&layout=compact&hide_border=true&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheer458&theme=github-dark&hide_border=true"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shaheer458&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
 ---
 
 # Certifications
